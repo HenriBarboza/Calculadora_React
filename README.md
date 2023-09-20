@@ -1,3 +1,5 @@
+# Para poder utilizar a calculadora siga os seguintes passos:
+
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Comando para rodar
