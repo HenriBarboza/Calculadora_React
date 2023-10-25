@@ -9,6 +9,7 @@
     border: none;
     border-right: var(--border-button);
     border-bottom: var(--border-button);
+    color: black;
     outline: none;
 }
 

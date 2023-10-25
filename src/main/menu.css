@@ -1,0 +1,73 @@
+.botao {
+    margin: 10px;
+    color:white;
+    background-color: gray;
+    border: gray 0.5px solid;
+    display: flex;
+    position: absolute;
+}
+.botao:hover{
+    background-color: rgb(40, 39, 39);
+    color: rgb(255, 255, 255);
+    border: white 0.5px solid;
+    transition: 0.3s;
+}
+
+.botaoFechar {
+    color:white;
+    background-color: transparent;
+    border: none;
+}
+.botaoFechar:hover{
+    background-color: transparent;
+    color: rgb(139, 138, 138);
+    transition: 0.3s;
+}
+
+.offcanvas{
+    background-color: #131a21 ;
+    color: white;
+}
+
+.offcanvas-calc{
+    color:white;
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+
+.offcanvas-body{
+    padding: 0;
+}
+
+.off-footer{
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 10px ;
+}
+
+
+
+.off{
+    color: #fff;
+}
+
+.conteudo-off{
+    padding-top: 5px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: space-around; 
+    color: #fff;
+}
+
+.conteudo-off a{
+    color: #fff;
+}
+
+.conteudo-off a:hover{
+    color: rgb(139, 138, 138);
+    transition: 0.3s;
+}
