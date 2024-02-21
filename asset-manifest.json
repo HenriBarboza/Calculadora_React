@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Calculadora_React/static/css/main.332b6b7a.css",
-    "main.js": "/Calculadora_React/static/js/main.71ca00a6.js",
+    "main.css": "/Calculadora_React/static/css/main.55fb02e6.css",
+    "main.js": "/Calculadora_React/static/js/main.16d11416.js",
     "static/js/787.a0d8d0d4.chunk.js": "/Calculadora_React/static/js/787.a0d8d0d4.chunk.js",
     "static/media/Roboto-Thin.ttf": "/Calculadora_React/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
     "index.html": "/Calculadora_React/index.html",
-    "main.332b6b7a.css.map": "/Calculadora_React/static/css/main.332b6b7a.css.map",
-    "main.71ca00a6.js.map": "/Calculadora_React/static/js/main.71ca00a6.js.map",
+    "main.55fb02e6.css.map": "/Calculadora_React/static/css/main.55fb02e6.css.map",
+    "main.16d11416.js.map": "/Calculadora_React/static/js/main.16d11416.js.map",
     "787.a0d8d0d4.chunk.js.map": "/Calculadora_React/static/js/787.a0d8d0d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.332b6b7a.css",
-    "static/js/main.71ca00a6.js"
+    "static/css/main.55fb02e6.css",
+    "static/js/main.16d11416.js"
   ]
 }
